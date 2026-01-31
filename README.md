@@ -1,4 +1,4 @@
-## Hi, there! It's [MD MUZAMMIL]! 👋
+## Hi, there! It's MD MUZAMMIL! 👋
 
 🚀 **About Me**
 I am a Aspiring Data Analyst passionate about using data-driven insights to solve complex problems. I'm proficient in Exel, Python, SQL, and data visualization tools, and I'm always eager to explore the latest trends in data science.
