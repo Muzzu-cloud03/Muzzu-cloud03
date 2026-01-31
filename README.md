@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, there! It's [MD MUZAMMIL]! 👋
 
-<!--
-**Muzzu-cloud03/Muzzu-cloud03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+I am a Aspiring Data Analyst passionate about using data-driven insights to solve complex problems. I'm proficient in Exel, Python, SQL, and data visualization tools, and I'm always eager to explore the latest trends in data science.
 
-Here are some ideas to get you started:
+🔭 **My Interests**
+* **Data Visualization:** Creating impactful visual stories with Tableau and Power BI.
+* **Big Data Analytics:** Processing large datasets for business intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Skills**
+* **Programming:** Python, SQL. 
+* **Data Analysis:** Pandas, NumPy.
+* **Visualization:** Matplotlib, Seaborn, Power BI.
+
+📫 **How to Reach Me**
+[LinkedIn](https://www.linkedin.com/in/mohammed-muzammil-560a38245/) |
